@@ -24,3 +24,6 @@ function requestUserData(inputReq, btnReq) {
     });
   }
   requestUserData('#inputReq', '#getReq');
+
+
+ /////// collaboration with Rene 😳//////
